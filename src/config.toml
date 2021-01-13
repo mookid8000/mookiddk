@@ -1,0 +1,4 @@
+baseURL = "https://mookid.dk"
+languageCode = "en-us"
+title = "mookid on code"
+theme = "color-your-world"
